@@ -8,6 +8,7 @@ sudo apt-get install python3-lxml <br />
 pip3 install lxml <br />
 pip3 install nltk <br />
 pip3 install gensim <br />
+pip3 install konply <br />
 
 # in case of jupyter error after changing python3 version
 pip3 install --upgrade notebook <br />
