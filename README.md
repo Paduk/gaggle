@@ -8,7 +8,8 @@ sudo apt-get install python3-lxml <br />
 pip3 install lxml <br />
 pip3 install nltk <br />
 pip3 install gensim <br />
-pip3 install konply <br />
+pip3 install konlpy <br />
+pip3 install matplotlib pandas <br />
 
 # in case of jupyter error after changing python3 version
 pip3 install --upgrade notebook <br />
@@ -20,4 +21,5 @@ nltk.download('punkt') <br />
 
 # need to understand below function
 <h4> from nltk.tokenize import word_tokenize, sent_tokenize </h4>
+<h4> 한국어형태소 function usage </h4>
 <h4></h4>
